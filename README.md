@@ -7,6 +7,6 @@ Welcome to the Ultra Coder Saver! (it's just like the Wayback Machine but with s
 <br>
 Most of the information can be found at the website, so I'll just leave you be and just put it already.
 <br>
-https://Megalaoofania.github.io/Ultra-Code-Saver/
+https://Megalaoofania.github.io/Ultra-Code-Saver/Home%20Page/menu.html
 <br>
 Well, off you go!
