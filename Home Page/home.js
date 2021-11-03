@@ -4,7 +4,7 @@ console.log("Received.")
 if(document.getElementById("searchweb").value == "example.com")
 {
     console.log("Loading...")
-    location.href = '/example.com/menu.html'
+    location.href = '/example.com/mainmenu.html'
 } else if(document.getElementById("searchweb").value == "testsite1.com") {
     console.log("Loading...")
     location.href = '/Test%20Site/testsite1.html'
