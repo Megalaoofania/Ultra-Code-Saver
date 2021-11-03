@@ -4,11 +4,11 @@ function view_index_html()
 }
 function view_bubble_compiled_js()
 {
-    location.href = '/Code/examplebubblecompiledjs.txt'
+    location.href = '/Code/example.com/examplebubblecompiledjs.txt'
 }
 function view_pretty_print_bubble_compiled_js()
 {
-    location.href = '/Code/exampleprettyprintbubblecompiledjs.txt'
+    location.href = '/Code/example.com/exampleprettyprintbubblecompiledjs.txt'
 }
 function view_website()
 {
