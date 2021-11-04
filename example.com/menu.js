@@ -1,16 +1,16 @@
 function view_index_html()
 {
-    location.href = '/Code/examplehtml.txt'
+    location.href = 'Ultra-Code-Saver/Code/examplehtml.txt'
 }
 function view_bubble_compiled_js()
 {
-    location.href = '/Code/examplebubblecompiledjs.txt'
+    location.href = 'Ultra-Code-Saver/Code/examplebubblecompiledjs.txt'
 }
 function view_pretty_print_bubble_compiled_js()
 {
-    location.href = '/Code/exampleprettyprintbubblecompiledjs.txt'
+    location.href = 'Ultra-Code-Saver/Code/exampleprettyprintbubblecompiledjs.txt'
 }
 function view_website()
 {
-    location.href = '/example.com/index.html'
+    location.href = 'Ultra-Code-Saver/example.com/index.html'
 }
